@@ -28,8 +28,8 @@ Finance Tracker is a task assignment and financial tracking web application buil
 
 ### Clone the Repository
 ```bash
- git clone [https://github.com/reeddoy/Finance_Tracker_Backend.git](https://github.com/reeddoy/Finance-Tracker-With-AI-Chat-Bot.git)
- cd Finance_Tracker_Backend
+ git clone https://github.com/reeddoy/Finance-Tracker-With-AI-Chat-Bot.git
+ cd Finance-Tracker-With-AI-Chat-Bot
 ```
 
 ### Set Up Virtual Environment (Optional)
