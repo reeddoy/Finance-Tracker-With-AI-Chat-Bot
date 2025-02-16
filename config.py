@@ -1,0 +1,6 @@
+class Config:
+    SECRET_KEY = "f3f8be6fb4c6f33f92b5e43a2c8b6a3d"
+    SQLALCHEMY_DATABASE_URI = "sqlite:///database.db"
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
+    JWT_SECRET_KEY = "87d9a65e6bfa92f03d4567b3445a6789"
+    JWT_ALGORITHM = "HS256"
