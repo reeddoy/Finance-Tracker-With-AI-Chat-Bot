@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 # Create a Blueprint for home routes
 home_route = Blueprint('home', __name__)
 
-GEMINI_API_KEY = "AIzaSyD2aaDrAfDtPXtKAmenn8OTF0K0ILwM0_c"  # Replace with your actual key
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"  # Replace with your actual key
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Define a route for the home page
